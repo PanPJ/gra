@@ -1472,7 +1472,7 @@
     "jaskier": [
       {
         "action": "rozkrusz",
-        "effect": "<<SteelBlue>odtr<grey>"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "przezuj",
