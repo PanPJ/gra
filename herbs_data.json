@@ -1170,7 +1170,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "+zrc"
+        "effect": "<cornsilk>+zrc<grey>"
       }
     ],
     "arnika": [
@@ -1219,7 +1219,7 @@
     "bielun": [
       {
         "action": "powachaj",
-        "effect": "+zrc"
+        "effect": "<cornsilk>+zrc<grey>"
       },
       {
         "action": "zjedz",
@@ -1325,7 +1325,7 @@
     "casur": [
       {
         "action": "zjedz",
-        "effect": "+sila"
+        "effect": "<cornsilk>+sila<grey>"
       }
     ],
     "cebula": [
@@ -1410,7 +1410,7 @@
     "drath": [
       {
         "action": "przezuj",
-        "effect": "+wyt"
+        "effect": "<cornsilk>+wyt<grey>"
       }
     ],
     "dziurawiec": [
@@ -1577,7 +1577,7 @@
     "krasnodrzew": [
       {
         "action": "powachaj",
-        "effect": "+wyt"
+        "effect": "<cornsilk>+wyt<grey>"
       }
     ],
     "kruszyna": [
@@ -1601,7 +1601,7 @@
     "kulczyba": [
       {
         "action": "przezuj",
-        "effect": "+sila"
+        "effect": "<cornsilk>+sila<grey>"
       },
       {
         "action": "zjedz",
@@ -1823,7 +1823,7 @@
     "ogorecznik": [
       {
         "action": "przezuj",
-        "effect": "+odw"
+        "effect": "<cornsilk>+odw<grey>"
       }
     ],
     "oset": [
@@ -2171,7 +2171,7 @@
     "urzet": [
       {
         "action": "wetrzyj",
-        "effect": "+odw"
+        "effect": "<cornsilk>+odw<grey>"
       },
       {
         "action": "zjedz",
@@ -2320,7 +2320,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "+zrc"
+        "effect": "<cornsilk>+zrc<grey>"
       }
     ],
     "dziewanna": [
