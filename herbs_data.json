@@ -1182,7 +1182,7 @@
     "babka": [
       {
         "action": "przyloz",
-        "effect": "<LimeGreen>+kon<grey> odtr pajak"
+        "effect": "<LimeGreen>+kon<grey> <SteelBlue>odtr pajak<grey>"
       }
     ],
     "bagno": [
@@ -1202,7 +1202,7 @@
       },
       {
         "action": "zjedz",
-        "effect": "odtr jad gada i insekta"
+        "effect": "<SteelBlue>odtr jad gada i insekta<grey>"
       }
     ],
     "bez": [
@@ -1213,7 +1213,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr pokarm i zakazne"
+        "effect": "<SteelBlue>odtr pokarm i zakazne<grey>"
       }
     ],
     "bielun": [
@@ -1287,7 +1287,7 @@
     "bylica_cytwarowa": [
       {
         "action": "wetrzyj",
-        "effect": "odtr pasozyt"
+        "effect": "<SteelBlue>odtr pasozyt<grey>"
       },
       {
         "action": "zjedz",
@@ -1298,7 +1298,7 @@
     "bylica_piolun": [
       {
         "action": "wetrzyj",
-        "effect": "odtr pasozyt"
+        "effect": "<SteelBlue>odtr pasozyt<grey>"
       },
       {
         "action": "rozgryz",
@@ -1338,17 +1338,17 @@
     "centuria": [
       {
         "action": "zjedz",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "odtr jad insekta"
+        "effect": "<SteelBlue>odtr jad insekta<grey>"
       },
       {
         "action": "powachaj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "zjedz",
@@ -1397,7 +1397,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "drabik": [
@@ -1472,7 +1472,7 @@
     "jaskier": [
       {
         "action": "rozkrusz",
-        "effect": "odtr"
+        "effect": "<<SteelBlue>odtr<grey>"
       },
       {
         "action": "przezuj",
@@ -1590,7 +1590,7 @@
     "krzyzownica": [
       {
         "action": "przezuj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "zjedz",
@@ -1642,7 +1642,7 @@
     "lukrecja": [
       {
         "action": "przyloz",
-        "effect": "odtr skora"
+        "effect": "<SteelBlue>odtr skora<grey>"
       },
       {
         "action": "przezuj",
@@ -1798,21 +1798,21 @@
     "nawloc": [
       {
         "action": "rozgryz",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "zjedz",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "przyloz",
-        "effect": "odtr skora"
+        "effect": "<SteelBlue>odtr skora<grey>"
       }
     ],
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> odtr jad insekta i roslinna"
+        "effect": "<olive_drab>-zmc<grey> <SteelBlue>odtr jad insekta i roslinna<grey>"
       },
       {
         "action": "rozgryz",
@@ -1867,7 +1867,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "pierscieniak": [
@@ -1887,13 +1887,13 @@
     "plucnica": [
       {
         "action": "sproszkuj",
-        "effect": "odtr pluca"
+        "effect": "<SteelBlue>odtr pluca<grey>"
       }
     ],
     "podbial": [
       {
         "action": "powachaj",
-        "effect": "<olive_drab>-zmc<grey> +odtr pluca"
+        "effect": "<olive_drab>-zmc<grey> <SteelBlue>odtr pluca<grey>"
       },
       {
         "action": "zjedz",
@@ -1945,7 +1945,7 @@
     "przelot": [
       {
         "action": "sproszkuj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "przesl": [
@@ -1964,13 +1964,13 @@
     "ranog": [
       {
         "action": "przezuj",
-        "effect": "odtr <LimeGreen>+kon<grey>"
+        "effect": "<SteelBlue>odtr <grey> <LimeGreen>+kon<grey>"
       }
     ],
     "rauwolfia": [
       {
         "action": "przezuj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "zjedz",
@@ -1992,7 +1992,7 @@
     "rdest_wezownik": [
       {
         "action": "przezuj",
-        "effect": "odtr jad gada"
+        "effect": "<SteelBlue>odtr jad gada<grey>"
       }
     ],
     "rojnik": [
@@ -2021,11 +2021,11 @@
     "rumianek": [
       {
         "action": "powachaj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "przyloz",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "serce_kapitana": [
@@ -2037,7 +2037,7 @@
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "odtr jad gada"
+        "effect": "<SteelBlue>odtr jad gada<grey>"
       }
     ],
     "skedar": [
@@ -2146,7 +2146,7 @@
     "tojad": [
       {
         "action": "przezuj",
-        "effect": "-kac odtr"
+        "effect": "-kac <SteelBlue>odtr<grey>"
       },
       {
         "action": "zjedz",
@@ -2182,7 +2182,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "odtr <tomato>+glod<grey>"
+        "effect": "<SteelBlue>odtr<grey> <tomato>+glod<grey>"
       }
     ],
     "ususzona_konopia": [
@@ -2233,7 +2233,7 @@
       },
       {
         "action": "polknij",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "ususzona_stroiczka": [
@@ -2279,13 +2279,13 @@
     "ususzony_ranog": [
       {
         "action": "przezuj",
-        "effect": "odtr <LimeGreen>+kon<grey>"
+        "effect": "<SteelBlue>odtr<grey> <LimeGreen>+kon<grey>"
       }
     ],
     "ususzony_starzec": [
       {
         "action": "sproszkuj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "zjedz",
@@ -2302,11 +2302,11 @@
     "wrotycz": [
       {
         "action": "powachaj",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       },
       {
         "action": "przyloz",
-        "effect": "odtr"
+        "effect": "<SteelBlue>odtr<grey>"
       }
     ],
     "ususzona_aralia": [
@@ -2326,7 +2326,7 @@
     "dziewanna": [
       {
         "action": "zjedz",
-        "effect": "odtr pokarm"
+        "effect": "<SteelBlue>odtr pokarm<grey>"
       }
     ],
     "poslonek": [
