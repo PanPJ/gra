@@ -1383,7 +1383,7 @@
     "czosnek": [
       {
         "action": "zjedz",
-        "effect": "<SteelBlue>odtr zakazna<grey>",
+        "effect": "<SteelBlue>odtr zakazna<grey>"
       }
     ],
     "deliona": [
