@@ -1192,10 +1192,10 @@
     "bagno": [
       {
         "action": "zjedz",
-        "effect": "<thistle>+odp<gray><SteelBlue>+odtr pasoz<grey>"
+        "effect": "<SteelBlue>+odtr pasoz<grey>"
       },
       {
-        "action": "przyloz",
+        "action": "przloz",
         "effect": "<SteelBlue>+odtr pasoz<grey>"
       }
     ],
@@ -1302,7 +1302,7 @@
     "bylica_piolun": [
       {
         "action": "wetrzyj",
-        "effect": "<SteelBlue>+odtr pasozyt/skory/zakazne<grey>"
+        "effect": "<SteelBlue>+odtr pasozyt i skory i zakazne<grey>"
       },
       {
         "action": "rozgryz",
@@ -1342,7 +1342,7 @@
     "centuria": [
       {
         "action": "zjedz",
-        "effect": "<SteelBlue>+odtr<grey>"
+        "effect": "<SteelBlue>+odtr pokarm<grey>"
       }
     ],
     "chaber": [
@@ -1805,7 +1805,7 @@
     "nawloc": [
       {
         "action": "rozgryz",
-        "effect": "<SteelBlue>odt pokarm<grey>"
+        "effect": "<SteelBlue>odt pokarm i skora<grey>"
       },
       {
         "action": "zjedz",
@@ -1819,7 +1819,7 @@
     "nostrzyk": [
       {
         "action": "przezuj",
-        "effect": "<olive_drab>-zmc<grey> <SteelBlue>+odtr jad insekta i roslinna<grey>"
+        "effect": "<olive_drab>-zmc<grey> <SteelBlue>+odtr jad insekta i roslinna i pokarmowa<grey>"
       },
       {
         "action": "rozgryz",
@@ -2028,7 +2028,7 @@
     "rumianek": [
       {
         "action": "powachaj",
-        "effect": "<SteelBlue>+odtr<grey>"
+        "effect": "<SteelBlue>+odtr pokarmowa<grey>"
       },
       {
         "action": "przyloz",
@@ -2189,7 +2189,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "<SteelBlue>+odtr insekt i roslinna i gadzi jad<grey> <ansiLightRed>+glod<grey>"
+        "effect": "<SteelBlue>+odtr insekt i roslinna i gadzi jad i pokarmowy<grey> <ansiLightRed>+glod<grey>"
       }
     ],
     "ususzona_konopia": [
@@ -2268,7 +2268,7 @@
       },
       {
         "action": "rozkrusz",
-        "effect": "???"
+        "effect": "<SteelBlue>+odtr skora<grey>"
       }
     ],
     "ususzony_lulek": [
@@ -2280,7 +2280,7 @@
     "ususzony_przelot": [
       {
         "action": "sproszkuj",
-        "effect": "<LimeGreen>+kon<grey>"
+        "effect": "<SteelBlue>+odtr skora<grey><LimeGreen>+kon<grey>"
       }
     ],
     "ususzony_ranog": [
@@ -2292,7 +2292,7 @@
     "ususzony_starzec": [
       {
         "action": "sproszkuj",
-        "effect": "<SteelBlue>+odtr<grey>"
+        "effect": "<SteelBlue>+odtr skora<grey>"
       },
       {
         "action": "zjedz",
