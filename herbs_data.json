@@ -1874,7 +1874,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "<SteelBlue>+odtr<grey>"
+        "effect": "<SteelBlue>+odtr insekt i gadzi jad<grey>"
       }
     ],
     "pierscieniak": [
@@ -2044,7 +2044,7 @@
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "<SteelBlue>+odtr jad gada<grey>"
+        "effect": "<SteelBlue>+odtr zakazna i insekt i gadzi jad<grey>"
       }
     ],
     "skedar": [
@@ -2189,7 +2189,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "<SteelBlue>+odtr<grey> <ansiLightRed>+glod<grey>"
+        "effect": "<SteelBlue>+odtr insekt i gadzi jad<grey> <ansiLightRed>+glod<grey>"
       }
     ],
     "ususzona_konopia": [
@@ -2207,7 +2207,7 @@
     "ususzona_mandragora": [
       {
         "action": "przezuj",
-        "effect": "<medium_turquoise>+int<grey>"
+        "effect": "<SteelBlue>+odtr insekt<grey><medium_turquoise>+int<grey>"
       },
       {
         "action": "rozgryz",
@@ -2286,7 +2286,7 @@
     "ususzony_ranog": [
       {
         "action": "przezuj",
-        "effect": "<SteelBlue>+odtr<grey> <LimeGreen>+kon<grey>"
+        "effect": "<SteelBlue>+odtr insekt<grey> <LimeGreen>+kon<grey>"
       }
     ],
     "ususzony_starzec": [
