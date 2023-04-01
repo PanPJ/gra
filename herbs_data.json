@@ -1182,17 +1182,21 @@
     "babka": [
       {
         "action": "przyloz",
-        "effect": "<LimeGreen>+kon<grey> <SteelBlue>odtr pajak<grey>"
+        "effect": "<LimeGreen>+kon<grey> "
+      },
+      {
+        "action": "zjedz",
+        "effect": "<SteelBlue>odtr pajak<grey>"
       }
     ],
     "bagno": [
       {
         "action": "zjedz",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp<gray><SteelBlue>odtr pasoz<grey>"
       },
       {
         "action": "przyloz",
-        "effect": "???"
+        "effect": "<SteelBlue>odtr pasoz<grey>"
       }
     ],
     "barwinek": [
@@ -1298,7 +1302,7 @@
     "bylica_piolun": [
       {
         "action": "wetrzyj",
-        "effect": "<SteelBlue>odtr pasozyt<grey>"
+        "effect": "<SteelBlue>odtr pasozyt/skory/zakazne<grey>"
       },
       {
         "action": "rozgryz",
@@ -1344,11 +1348,11 @@
     "chaber": [
       {
         "action": "przezuj",
-        "effect": "<SteelBlue>odtr jad insekta<grey>"
+        "effect": "<SteelBlue>odtr jad insekta i roslinna<grey>"
       },
       {
         "action": "powachaj",
-        "effect": "<SteelBlue>odtr<grey>"
+        "effect": "<SteelBlue>odtr pluca<grey>"
       },
       {
         "action": "zjedz",
@@ -1373,14 +1377,13 @@
     "czeremcha": [
       {
         "action": "przezuj",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp elek<gray>"
       }
     ],
     "czosnek": [
       {
         "action": "zjedz",
-        "effect": "jadalny",
-        "dont_bind": true
+        "effect": "<SteelBlue>odtr zakazna<grey>",
       }
     ],
     "deliona": [
@@ -1397,7 +1400,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "<SteelBlue>odtr<grey>"
+        "effect": "<SteelBlue>odtr skora<grey>"
       }
     ],
     "drabik": [
@@ -1590,7 +1593,7 @@
     "krzyzownica": [
       {
         "action": "przezuj",
-        "effect": "<SteelBlue>odtr<grey>"
+        "effect": "<SteelBlue>odtr jad gada i zakazna<grey>"
       },
       {
         "action": "zjedz",
@@ -1629,7 +1632,7 @@
       },
       {
         "action": "przyloz",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp na trutki<gray>"
       }
     ],
     "lubczyk": [
@@ -1661,6 +1664,10 @@
         "action": "zjedz",
         "effect": "tr",
         "dont_bind": true
+      },
+      {
+        "action": "przezuj",
+        "effect": "<SteelBlue>odtr roslinna<grey>"
       }
     ],
     "machorka": [
@@ -1798,11 +1805,11 @@
     "nawloc": [
       {
         "action": "rozgryz",
-        "effect": "<SteelBlue>odtr<grey>"
+        "effect": "<SteelBlue>odt pokarm<grey>"
       },
       {
         "action": "zjedz",
-        "effect": "<SteelBlue>odtr<grey>"
+        "effect": "<SteelBlue>odtr pokarm?<grey>"
       },
       {
         "action": "przyloz",
@@ -1816,7 +1823,7 @@
       },
       {
         "action": "rozgryz",
-        "effect": "-kon <tomato>+glod<grey>",
+        "effect": "<tomato>-kon +glod<grey>",
         "dont_bind": true
       }
     ],
