@@ -1874,7 +1874,7 @@
       },
       {
         "action": "przezuj",
-        "effect": "<SteelBlue>+odtr insekt i gadzi jad<grey>"
+        "effect": "<SteelBlue>+odtr roslinna i insekt i gadzi jad<grey>"
       }
     ],
     "pierscieniak": [
@@ -2044,7 +2044,7 @@
     "siezygron": [
       {
         "action": "rozgryz",
-        "effect": "<SteelBlue>+odtr zakazna i insekt i gadzi jad<grey>"
+        "effect": "<SteelBlue>+odtr zakazna i roslinna i insekt i gadzi jad<grey>"
       }
     ],
     "skedar": [
@@ -2189,7 +2189,7 @@
     "ususzona_boldoa": [
       {
         "action": "rozkrusz",
-        "effect": "<SteelBlue>+odtr insekt i gadzi jad<grey> <ansiLightRed>+glod<grey>"
+        "effect": "<SteelBlue>+odtr insekt i roslinna i gadzi jad<grey> <ansiLightRed>+glod<grey>"
       }
     ],
     "ususzona_konopia": [
