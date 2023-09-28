@@ -1,0 +1,12 @@
+{
+  [6824] = {
+    northwest = 6822,
+    southwest = 6833,
+    west = 6832
+  },
+  [6832] = {
+    east = 6824,
+    north = 6822,
+    south = 6833,
+    west = 6831
+  }
