@@ -1,0 +1,42 @@
+{
+    "herb_id_to_odmiana": {
+        "unknown_plant_1": {
+            "mianownik": "ciemnozielony malutki mech",
+            "dopelniacz": "ciemnozielonego malutkiego mchu",
+            "biernik": "ciemnozielony malutki mech",
+            "mnoga_mianownik": "ciemnozielone malutkie mechy",
+            "mnoga_dopelniacz": "ciemnozielonych malutkich mch\u00f3w",
+            "mnoga_biernik": "ciemnozielone malutkie mechy"
+        },
+        "unknown_plant_2": {
+            "mianownik": "skorzasta zoltozielona roslina",
+            "dopelniacz": "skorzastej zoltozielonej rosliny",
+            "biernik": "skorzasta zoltozielona roslina",
+            "mnoga_mianownik": "skorzaste zoltozielone rosliny",
+            "mnoga_dopelniacz": "skorzastych zoltozielonych roslin",
+            "mnoga_biernik": "skorzaste zoltozielone rosliny"
+        },
+        "unknown_plant_3": {
+            "mianownik": "zlocistozolty spory kwiat",
+            "dopelniacz": "zlocistozoltego sporego kwiatu",
+            "biernik": "zlocistozolty spory kwiat",
+            "mnoga_mianownik": "zlocistozolte spore kwiaty",
+            "mnoga_dopelniacz": "zlocistozoltych sporych kwiatow",
+            "mnoga_biernik": "zlocistozolte spore kwiaty"
+        }
+    },
+    "herb_id_to_use": {
+        "unknown_plant_1": [
+            {
+                "effect": "-zmc",
+                "effect potion": "<olive_drab>-zmc<grey> +kac"
+            },
+            {
+                "effect": "-kon",
+                "effect potion": "<magenta>-kon<grey>"
+            }
+        ],
+        "unknown_plant_2": [],
+        "unknown_plant_3": []
+    }
+}
