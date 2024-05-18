@@ -1850,7 +1850,7 @@
     "ostrozen": [
       {
         "action": "zjedz",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp magia umyslu<gray>"
       }
     ],
     "perelkowiec": [
@@ -2195,7 +2195,7 @@
     "ususzona_konopia": [
       {
         "action": "spal",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp czysta magia<gray>"
       }
     ],
     "ususzona_macznica": [
@@ -2222,7 +2222,7 @@
     "ususzona_melisa": [
       {
         "action": "przezuj",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp na trutki<gray>"
       },
       {
         "action": "zjedz",
@@ -2319,7 +2319,7 @@
     "ususzona_aralia": [
       {
         "action": "polknij",
-        "effect": "<thistle>+odp<gray>"
+        "effect": "<thistle>+odp trucizna<gray>"
       },
       {
         "action": "zjedz",
